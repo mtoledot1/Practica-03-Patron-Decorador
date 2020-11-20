@@ -44,6 +44,4 @@ public class Orden implements IOrden{
         productos.stream().forEach(p -> System.out.println(p.toString()));
         System.out.println("Total: "+total());
     }
-
-    
 }

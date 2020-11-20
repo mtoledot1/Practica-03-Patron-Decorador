@@ -53,5 +53,4 @@ public class Producto {
         return "Descripción: "+descripcion+" Cantidad: "+cantidad+" Precio: "+precio+" CT: "+(precio*cantidad);
     }
     
-    
 }
